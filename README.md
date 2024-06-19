@@ -18,8 +18,8 @@ This project is licensed under the CERN Open Hardware Licence Version 2 - Permis
 
 The Bill of Materials (BOM) is provided in two formats for your convenience:
 
-* **[BOM.md](BOM.md):** This file provides a human-readable markdown format of the BOM.
-* **BOM.csv:** This file is a comma-separated values file that can be easily imported into various tools and software.
+* **[bom.md](bom.md):** This file provides a human-readable markdown format of the BOM.
+* **bom.csv:** This file is a comma-separated values file that can be easily imported into various tools and software.
 
 Both files are included in the [Release 1.00](https://github.com/logic-punch/ac-dc-5v-converter/releases/tag/v1.00).
 
@@ -27,9 +27,6 @@ Both files are included in the [Release 1.00](https://github.com/logic-punch/ac-
 
 The design files for this project are provided in the following formats:
 
-* **KiCad project files (Optional):**
-    * [schematic](schematic): Contains the schematic diagram for the converter circuit.
-    * [pcb](pcb): Contains the PCB layout files.
 * **Gerber files (in release 1.00):**
     * Download the gerber files from the [Release 1.00](https://github.com/logic-punch/ac-dc-5v-converter/releases/tag/v1.00) folder. These files can be used by a PCB fabrication service to manufacture the PCB.
 
