@@ -1,6 +1,6 @@
 ## ac-dc-5v-converter
 
-This repository contains the design files and Bill of Materials (BOM) for a simple AC-DC converter that takes a mains input of 100-240VAC and converts it to a stable 5VDC at 1 Amp. The design includes mounting holes for easy integration into your project. This is a **2 layer PCB**.
+This repository contains the design files and Bill of Materials (BOM) for a simple AC-DC converter that takes a mains input of 100-240VAC and converts it to a stable 5VDC at 1 Amp. The design includes mounting holes for easy integration into your project.
 
 ### Features
 
@@ -9,6 +9,13 @@ This repository contains the design files and Bill of Materials (BOM) for a simp
 * Output current: 1 Amp
 * Mounting holes for easy integration
 * 2 Layer PCB
+
+
+![Schematic](pics/schematic.png)
+![Routing](pics/routing.png)
+![PCBS](pics/pcbs.jpg)
+![Assembled](pics/assembled.jpg)
+
 
 ### License
 
@@ -21,7 +28,7 @@ The Bill of Materials (BOM) is provided in two formats for your convenience:
 * **[bom.md](bom.md):** This file provides a human-readable markdown format of the BOM.
 * **bom.csv:** This file is a comma-separated values file that can be easily imported into various tools and software.
 
-Both files are included in the [Release 1.00](https://github.com/logic-punch/ac-dc-5v-converter/releases/tag/v1.00).
+bom.csv is included in the [Release 1.00](https://github.com/logic-punch/ac-dc-5v-converter/releases/tag/v1.00).
 
 ### Design Files
 
@@ -45,3 +52,5 @@ The Gerbers are the most common way to have a PCB manufactured by a professional
 ### Disclaimer
 
 This design is provided for educational purposes only. It is recommended to have a good understanding of electronics and safety practices before attempting to build this project.  The author assumes no responsibility for any misuse or damage caused by this project.
+
+
